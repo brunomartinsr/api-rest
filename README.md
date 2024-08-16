@@ -1,2 +1,2 @@
 # api-rest
-Estudos de Node.js e utilizando o padrao MVC controller e MVC repository
+Estudos de Node.js, fazendo um CRUD com padrao MVC controller e MVC repository
